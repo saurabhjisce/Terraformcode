@@ -1,0 +1,3 @@
+variable "azrdatavm01" {
+  
+}
